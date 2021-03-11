@@ -24,7 +24,7 @@
 
 ## Structure And Template
 
-- [ ] Laravel Explain Prohject Structure
+- [ ] Laravel Explain Project Structure
 - [ ] Template Engine In Depth 
 - [ ] Blade Template Engine
 
@@ -32,7 +32,7 @@
 
 - [ ] Routes Intro
 - [ ] Passing Data To Routes
-- [ ] Parameters (Wile Cards)
+- [ ] Parameters (Wild Cards)
 - [ ] The Named Routes
 
 ## Layout
